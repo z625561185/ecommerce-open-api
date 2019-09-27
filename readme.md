@@ -1,12 +1,8 @@
-# iBrand E-Commerce open source project
 
-iBrand EC 是一个免费的开源电子商务解决方案，使用 PHP 基于 Laravel 框架进行编写。基于模块化开发，易扩展，可基于个性需求快速实现定制化需求，功能符合国内电商绝大部分使用场景。
-
-> 基于目前移动互联网的发展趋势，目前只提供 API 和 后端管理，不提供PC端商城。如有需要可理解项目架构后自行实现。
+ 基于目前移动互联网的发展趋势，目前只提供 API 和 后端管理，不提供PC端商城。如有需要可理解项目架构后自行实现。
 
 管理后台：[iBrand e-commerce admin]( https://demo-open-admin.ibrand.cc/admin)
 
-后台账号密码请关注公众号 [PHP果酱](https://iyoyo.oss-cn-hangzhou.aliyuncs.com/post/wechat.jpg)  (微信号：phpjam) ，并回复关键词：password 获取。
 
 扫码体验小程序：
 
